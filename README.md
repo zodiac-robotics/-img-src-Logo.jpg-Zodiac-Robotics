@@ -7,15 +7,15 @@ The whole idea of Zodiac Robotics was initially started by working on our first 
 
 A cost effective robotic arm that uses a camera to identify an object, pick it up and place it in the required position. One of our  projects which paved our way into more challenging events.
 
-For more details [click here]()
+For more details [click here](https://zodiac-robotics.github.io/Humanoid-Hand/)
 
 ## Mars Rover
 A space exploration rover which performs tasks such as autonomous task, equipment servicing, astronaut assitance and soil sampling.This was developed as a part of a competition called **Indian Rover Challenge**, which was conducted by Manipal Institute of Technology.
 
-For more details [click here]()
+For more details [click here](https://zodiac-robotics.github.io/Mars-Rover/)
 
 ## AgRoBo
 An agricultural robot that assist the farmers by performing tasks such as Area mapping, sapling/seed plantation, soil analysis and crop maintenance. This is the project that we are currrently working on.
 
-For more details [click here]()
+For more details [click here](https://zodiac-robotics.github.io/AgRobo/)
 
