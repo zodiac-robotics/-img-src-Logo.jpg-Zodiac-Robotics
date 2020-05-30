@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zodiac-robotics/Zodiac-Robotics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Team Zodiac Robotics is a group of young and passionate engineers who is determined to explore,learn and create projects that is going to make an impact on people's lives.We were on a lookout for some exciting and challenging projects which would satiate our interest in Robotics. We always wanted to be a part of challenging events. We have gained experience by working on different projects and by participating in many competitions at college, State and National level.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The whole idea of Zodiac Robotics was initially started by working on our first project called **Humanoid hand**. We built cost effective robotic arm that would help people to lift objects and place it in positions that are needed. The second project was **Mars Rover**, an autonomous rover for space exploration. We took up the project because it incorporated all the core engineering branches.The next project is **AgRoBo**, an agricultural robot that assist the farmers. We used the knowledge that we gained from Space robotics to explore the agricultural robotics.
 
-### Markdown
+## Humanoid Hand
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A cost effective robotic arm that uses a camera to identify an object, pick it up and place it in the required position. One of our  projects which paved our way into more challenging events.
 
-```markdown
-Syntax highlighted code block
+For more details [click here]()
 
-# Header 1
-## Header 2
-### Header 3
+## Mars Rover
+A space exploration rover which performs tasks such as autonomous task, equipment servicing, astronaut assitance and soil sampling.This was developed as a part of a competition called **Indian Rover Challenge**, which was conducted by Manipal Institute of Technology.
 
-- Bulleted
-- List
+For more details [click here]()
 
-1. Numbered
-2. List
+## AgRoBo
+An agricultural robot that assist the farmers by performing tasks such as Area mapping, sapling/seed plantation, soil analysis and crop maintenance. This is the project that we are currrently working on.
 
-**Bold** and _Italic_ and `Code` text
+For more details [click here]()
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zodiac-robotics/Zodiac-Robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
