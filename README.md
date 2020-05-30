@@ -10,7 +10,7 @@ A cost effective robotic arm that uses a camera to identify an object, pick it u
 
 For more details [click here](https://zodiac-robotics.github.io/Humanoid-Hand/)
 
-<img src="arm.jpg" height="50%">
+<img src="https:\\arm.jpg" height="50%">
 
 ## Mars Rover
 A space exploration rover which performs tasks such as autonomous task, equipment servicing, astronaut assitance and soil sampling.This was developed as a part of a competition called **Indian Rover Challenge**, which was conducted by Manipal Institute of Technology.
