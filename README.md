@@ -1,5 +1,5 @@
 
-          <img src="{{site.Logo | relative_url}}" alt="Logo" />
+          
        
         
 Team Zodiac Robotics is a group of young and passionate engineers who is determined to explore,learn and create projects that is going to make an impact on people's lives.We were on a lookout for some exciting and challenging projects which would satiate our interest in Robotics. We always wanted to be a part of challenging events. We have gained experience by working on different projects and by participating in many competitions at college, State and National level.
