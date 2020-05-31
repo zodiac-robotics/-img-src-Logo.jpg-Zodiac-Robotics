@@ -10,12 +10,15 @@ A cost effective robotic arm that uses a camera to identify an object, pick it u
 
 For more details [click here](https://zodiac-robotics.github.io/Humanoid-Hand/)
 
-<img src="arm.jpeg" width="100" height="100">
+<img src="arm.jpeg" width="210" height="140">
 
 ## Mars Rover
 A space exploration rover which performs tasks such as autonomous task, equipment servicing, astronaut assitance and soil sampling.This was developed as a part of a competition called **Indian Rover Challenge**, which was conducted by Manipal Institute of Technology.
 
 For more details [click here](https://zodiac-robotics.github.io/Mars-Rover/)
+
+
+<img src="arm.jpeg" width="210" height="140">
 
 ## AgRoBo
 An agricultural robot that assist the farmers by performing tasks such as Area mapping, sapling/seed plantation, soil analysis and crop maintenance. This is the project that we are currrently working on.
