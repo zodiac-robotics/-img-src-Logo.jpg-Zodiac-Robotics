@@ -18,7 +18,7 @@ A space exploration rover which performs tasks such as autonomous task, equipmen
 For more details [click here](https://zodiac-robotics.github.io/Mars-Rover/)
 
 
-<img src="rover.jpeg" width="210" height="140">
+<img src="rover.jpg" width="210" height="140">
 
 ## AgRoBo
 An agricultural robot that assist the farmers by performing tasks such as Area mapping, sapling/seed plantation, soil analysis and crop maintenance. This is the project that we are currrently working on.
@@ -26,4 +26,4 @@ An agricultural robot that assist the farmers by performing tasks such as Area m
 For more details [click here](https://zodiac-robotics.github.io/AgRobo/)
 
    
-<img src="arm.jpeg" width="210" height="140">
+<img src="agrobo.jpg" width="210" height="140">
